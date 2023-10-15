@@ -4,6 +4,7 @@ Hi there! This documentation provides a concise overview of my expertise and cap
 **Table of Contents :**
 - [VIX Data Analytics Accenture](https://github.com/nisa-g/VIX-Data-Analytics-Accenture)
 - [Medical Inventory Optimization and Forecasting](https://github.com/nisa-g/Medical-Inventory-Optimization-and-Forecasting)
+- [CAPM Web Application Financial Analysis Project](https://github.com/nisa-g/CAPM-Web-Application-Financial-Analysis)
 - [Malaysia Covid-19 Dashboard](https://github.com/nisa-g/Malaysia-Covid-19-Dashboard)
 
 <br>
@@ -56,6 +57,28 @@ To start our engagement with the company, we have embarked on a typical time ser
 🗂️ Source Dataset : Innodatatics<br>
 
 [Click to view full documentation](https://github.com/nisa-g/Medical-Inventory-Optimization-and-Forecasting)
+
+---
+
+### 📂 CAPM Web Application | Financial Analysis Project
+_Individual | Python | Web Application_
+
+#### Project Description
+This project showcases a web application that is designed to perform CAPM calculations for different stocks. The application uses Python programming language and its libraries such as Pandas, NumPy, Streamlit and Plotly, to gather stock data from Yahoo Finance and perform calculations to determine expected returns.
+
+The project consist of three major tasks:
+
+✅ **Task 1 -** Project Understanding<br>
+✅ **Task 2 -** Development of Web Application<br>
+✅ **Task 3 -** Web Deployment<br>
+
+<br>
+
+⚙️ Tool : Python<br>
+💻 Frameworks : Streamlit<br>
+🗂️ Source Dataset : SP500<br>
+
+[Click to view full documentation](https://github.com/nisa-g/CAPM-Web-Application-Financial-Analysis)
 
 ---
 
