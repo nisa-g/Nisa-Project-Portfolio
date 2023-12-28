@@ -30,6 +30,35 @@ This project aimed to analyze content categories within the realm of Social Buzz
 
 ---
 
+### 📂 Medical Inventory Optimization and Forecasting
+_[Virtual Internship](https://drive.google.com/file/d/1ObW8EAmd-OxJf33XNXijQUI4J244RLxH/view?usp=sharing) | Individual | Python & Machine Learning_
+
+#### Project Description
+The primary objective of this project is to minimize the drug shortages and maximize the availability of drugs, customer satisfaction, and profits. Forecasting in pharmaceutical industry was done by using time-series forecasting model.
+
+To start our engagement with the company, we have embarked on a typical time series forecasting pipeline, consisting of three major phases:
+
+1. Feature engineering and Data preparation
+2. Exploratory data analysis (time-series analysis)
+3. Forecasting
+
+<br>
+
+✅ **Task 1 -** Project Scope<br>
+✅ **Task 2 -** Data Preprocessing<br>
+✅ **Task 3 -** Exploratory Data Analysis (EDA)<br>
+✅ **Task 4 -** Forecasting Model<br>
+
+<br>
+
+⚙️ Tool : Python, MySQL<br>
+💻 Presentation Deck : PowerPoint<br>
+🗂️ Source Dataset : Innodatatics<br>
+
+[Click to view full documentation](https://github.com/nisa-g/Medical-Inventory-Optimization-and-Forecasting)
+
+---
+
 ### 📂 CAPM Web Application | Financial Analysis Project
 _Individual | Python | Web Application_
 
