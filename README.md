@@ -3,6 +3,7 @@ Hi there! This documentation provides a concise overview of my expertise and cap
 
 **Table of Contents :**
 - [VIX Data Analytics Accenture](https://github.com/nisa-g/VIX-Data-Analytics-Accenture)
+- [Medical Inventory Optimization and Forecasting](https://github.com/nisa-g/Medical-Inventory-Optimization-and-Forecasting)
 - [CAPM Web Application Financial Analysis Project](https://github.com/nisa-g/CAPM-Web-Application-Financial-Analysis)
 - [Malaysia Covid-19 Dashboard](https://github.com/nisa-g/Malaysia-Covid-19-Dashboard)
 
