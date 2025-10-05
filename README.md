@@ -100,7 +100,7 @@ Malaysia COVID-19 Dashboard, a comprehensive platform created to provide timely 
 
 ### 📂 Complated Course and Certification
 
-- [Professional Certificate Course for Practical Data Analytics]([https://360digitmg.com/verifier/126ddf67-2822-4975-b3b6-f642912def89](https://360digitmg.com/verifier/c293351f-9d5e-4c50-95e0-abc7978e6b42) | 360DigiTMG
+- [Professional Certificate Course for Practical Data Analytics](https://360digitmg.com/verifier/126ddf67-2822-4975-b3b6-f642912def89](https://360digitmg.com/verifier/c293351f-9d5e-4c50-95e0-abc7978e6b42) | 360DigiTMG
 - [Business Intelligence with Power BI](https://360digitmg.com/verifier/126ddf67-2822-4975-b3b6-f642912def89) | 360DigiTMG
 - [Data Visualization Using Tableau](https://360digitmg.com/verifier/d0389447-2df9-44da-afdc-b18ced0fba3a) | 360DigiTMG
 - [Databases and SQL for Data Science with Python](https://coursera.org/share/d4abb3a4a5f94c382ab3dc02dac6bcea) | IBM
